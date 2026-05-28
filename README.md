@@ -96,7 +96,8 @@ This project helped in understanding:
 
 Author
 
-Name: Jay
+Name: John Sesay
+
 Course: Scientific Programming
 Institution: Njala University
 
