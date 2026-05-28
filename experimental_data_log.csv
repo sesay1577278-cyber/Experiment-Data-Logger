@@ -1,0 +1,3 @@
+experiment_name,parameter,value,notes
+Trial 3 - Light Intensity,Lux,450.0,Indoor lighting
+Trial 4 - Battery Drain,Current (mA),120.5,Active mode

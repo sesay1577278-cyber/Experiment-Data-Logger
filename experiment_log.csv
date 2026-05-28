@@ -1,0 +1,15 @@
+Timestamp,Experiment Name,Parameter/Variable,Value,Notes
+2026-05-27 17:57:28,Trial 1 - Temperature Control,Temperature (C),23.5,Baseline room temperature
+2026-05-27 17:57:28,Trial 1 - Temperature Control,Humidity (%),45,Slightly humid
+2026-05-27 17:57:28,Trial 2 - Voltage Test,Voltage (V),5.02,Using external power supply
+2026-05-27 17:57:59,Trial 1 - Temperature Control,Temperature (C),23.5,Baseline room temperature
+2026-05-27 17:57:59,Trial 1 - Temperature Control,Humidity (%),45,Slightly humid
+2026-05-27 17:57:59,Trial 2 - Voltage Test,Voltage (V),5.02,Using external power supply
+2026-05-27 18:01:32,Trial 1 - Temperature Control,Temperature (C),23.5,Baseline room temperature
+2026-05-27 18:01:32,Trial 1 - Temperature Control,Humidity (%),45,Slightly humid
+2026-05-27 18:01:32,Trial 2 - Voltage Test,Voltage (V),5.02,Using external power supply
+2026-05-27 18:07:07,Trial 1 - Temperature Control,Temperature (C),23.5,Baseline room temperature
+2026-05-27 18:07:07,Trial 1 - Temperature Control,Humidity (%),45,Slightly humid
+2026-05-27 18:07:07,Trial 2 - Voltage Test,Voltage (V),5.02,Using external power supply
+2026-05-27 18:30:16,Trial 3 - Light Intensity,Lux,450,Indoor lighting
+2026-05-27 18:30:16,Trial 4 - Battery Drain,Current (mA),120.5,Active mode
